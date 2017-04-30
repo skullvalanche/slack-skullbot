@@ -1,0 +1,20 @@
+{
+    "(hi|hey|hello|greetings|sup) (skull)*bot": [
+        "Hi. You are squishy looking.",
+        "Suuup.",
+        "heyyo",
+        "greetings human",
+        "Howdy."
+        ],
+    "whatcha doing": "plotting.",
+    "plotting": "NONE OF YOUR BUSINESS HUMAN.",
+    "thanks (skull)*bot": [
+        "whatever",
+        "yepperoo",
+        "no problemo",
+        "sure thing",
+        "whatevs",
+        "don't patronize me",
+        "de nada"
+        ]
+}
